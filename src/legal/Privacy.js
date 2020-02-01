@@ -64,7 +64,7 @@ function Privacy() {
         free to contact us.
       </Typography>
       <Typography paragraph>
-        This policy is effective as of January 1st, 2019.
+        This policy is effective as of February 1st, 2020.
       </Typography>
     </div>
   );
