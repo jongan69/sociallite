@@ -1,5 +1,5 @@
 <h1>
-  React Starter Kit for Firebase &nbsp; <sup><i>a.k.a. Serverless Edition</i></sup><br>
+  Social Lite &nbsp; <sup><i>Social Trainer App</i></sup><br>
   <a href="https://circleci.com/gh/kriasoft/react-firebase-starter"><img src="https://circleci.com/gh/kriasoft/react-firebase-starter.svg?style=svg" alt="Build Status" height="20" /></a>
   <img src="https://api.dependabot.com/badges/status?host=github&repo=kriasoft/react-firebase-starter" alt="Dependabot" height="20" />
   <a href="https://opencollective.com/react-firebase-starter"><img src="https://opencollective.com/react-firebase-starter/backers/badge.svg?maxAge=3600" height="20"></a>
@@ -13,6 +13,10 @@
 suggesting events and challenges to the user. These challenges and events are suggested to help 
 the user experience new things little by little. Once the user completes the challenge or goes to an event, 
 they will be rewarded. 
+
+Our webpage (<a heref="www.social-lite.tech">Social Lite</a>) contains user authentication, .....
+
+<NOTE INSERT MORE HERE>
 
 _for Firebase_ is a popular project template (aka, boilerplate) for building
 modern, scalable web applications with React, Relay, and GraphQL using serverless infrastructure
