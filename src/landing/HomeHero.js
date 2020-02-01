@@ -4,9 +4,10 @@
  * Copyright (c) 2015-present Kriasoft | MIT License
  */
 
-import React from 'react';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
+
+import React from 'react';
 
 import LoginButton from '../common/LoginButton';
 
@@ -56,7 +57,7 @@ function HomeHero() {
   return (
     <div className={s.root}>
       <Typography className={s.title} variant="h3">
-        Flying start for makers
+        Social Lite
       </Typography>
       <Typography className={s.subTitle} variant="h5">
         Quickly bootstrap new web application projects on a solid

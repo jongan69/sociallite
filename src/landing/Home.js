@@ -4,10 +4,11 @@
  * Copyright (c) 2015-present Kriasoft | MIT License
  */
 
-import React from 'react';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
+
+import React from 'react';
 
 import HomeSponsors from './HomeSponsors';
 import HomeStack from './HomeStack';
@@ -42,7 +43,7 @@ function Home() {
       <HomeSponsors />
       <div className={s.content}>
         <Typography className={s.title} variant="h4" gutterBottom>
-          Getting Started
+          Social Lite
         </Typography>
         <Typography paragraph>
           Just clone the{' '}
