@@ -46,14 +46,6 @@ function Home() {
           Social Lite
         </Typography>
         <Typography paragraph>
-          Just clone the{' '}
-          <a
-            href="https://github.com/kriasoft/react-firebase-starter"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            repository
-          </a>
           , tweak environment variables found in .env.* files in the root of the
           project and start hacking.
         </Typography>
