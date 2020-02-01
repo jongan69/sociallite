@@ -7,7 +7,14 @@
   <a href="https://discord.gg/2nKEnKq"><img src="https://img.shields.io/badge/chat-Discord-green.svg?style=social&amp;maxAge=3600" height="20"></a>
 </h1>
 
-**React Starter Kit** _for Firebase_ is a popular project template (aka, boilerplate) for building
+### What It Does
+
+**Social Lite** is an app that helps those want to improve their social skills by 
+suggesting events and challenges to the user. These challenges and events are suggested to help 
+the user experience new things little by little. Once the user completes the challenge or goes to an event, 
+they will be rewarded. 
+
+_for Firebase_ is a popular project template (aka, boilerplate) for building
 modern, scalable web applications with React, Relay, and GraphQL using serverless infrastructure
 provided by <a href="https://cloud.google.com/">Google Cloud</a> (Cloud SQL, Cloud Functions, CDN
 hosting, and file storage). It allows you to save time and build upon a solid foundation and
@@ -19,7 +26,7 @@ design patterns.
 
 This project was bootstrapped with [React Starter Kit for Firebase][rfs] by [Kriasoft][kriasoft].
 
-### Tech Stack
+### What We Build (Tech Stack)
 
 - [Create React App][cra] (★ 73k) for development and test infrastructure (see [user guide][cradocs])
 - [Material UI][mui] (★ 52k) to reduce development time by integrating Google's [Material Design][material]
@@ -30,6 +37,14 @@ This project was bootstrapped with [React Starter Kit for Firebase][rfs] by [Kri
 - [Google Cloud][gcp] & [Firebase][firebase] for serverless architecture - Cloud SQL, Cloud Functions, CDN hosting, file storage ([docs][fbdocs])
 
 Also, you need to be familiar with [HTML][html], [CSS][css], [JavaScript][js] ([ES2015][es2015]) and [React](https://reactjs.org/docs/).
+
+### Challenges We Ran Into
+
+### Accomplishments We Are Proud Of
+
+### What We Learned
+
+### What's Next for Social Lite?
 
 
 ### Prerequisites
